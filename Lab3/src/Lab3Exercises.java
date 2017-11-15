@@ -11,7 +11,7 @@ public class Lab3Exercises {
         myFrame.getContentPane().add(myPanel);
 		myFrame.setVisible(true);
 		
-		 // New code
+		 // New code  
 		myFrame.setLocation(800, 450);
 	}
 }
