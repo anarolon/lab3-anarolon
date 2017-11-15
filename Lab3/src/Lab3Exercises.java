@@ -8,7 +8,7 @@ public class Lab3Exercises {
 		myFrame.setSize(200, 200);
 		myFrame.setVisible(true);
 		
-		 // Chaliana code
+		 // New code
 		myFrame.setLocation(800, 450);
 	}
 }
