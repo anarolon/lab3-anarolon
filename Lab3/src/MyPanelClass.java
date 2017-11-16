@@ -44,7 +44,7 @@ public class MyPanelClass extends JPanel {
         
 //        g.setColor(Color.LIGHT_GRAY); 
 //        g.fillOval((width - 55)/2, (height - 55)/2, 55, 55);
-        
+       
         // Bars
         g.setColor(Color.RED);
         g.fillRect(x1 + 20, y1 + 25, 200, 50);
